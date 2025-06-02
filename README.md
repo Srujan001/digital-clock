@@ -1,4 +1,4 @@
-# digitl-clock# Digital Clock GUI App (Python + Tkinter)
+# Digital Clock GUI App (Python + Tkinter)
 
 A simple digital clock application built with Python and Tkinter.
 
